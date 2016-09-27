@@ -1,0 +1,5 @@
+INDEX VERSION 1.126
+/Users/IHM10/Documents/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/735683733.index
+/HelloWolrsStruts2/src
+/Users/IHM10/Documents/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/330361546.index
+/HelloWorldStruts2/src

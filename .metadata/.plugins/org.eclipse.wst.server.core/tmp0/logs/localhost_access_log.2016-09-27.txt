@@ -1,0 +1,13 @@
+127.0.0.1 - - [27/Sep/2016:16:09:42 -0500] "GET / HTTP/1.1" 404 961
+0:0:0:0:0:0:0:1%0 - - [27/Sep/2016:16:09:43 -0500] "GET /HelloWorldStruts2/ HTTP/1.1" 200 399
+0:0:0:0:0:0:0:1%0 - - [27/Sep/2016:16:12:38 -0500] "GET /HelloWorldStruts2/hello?name=cesar HTTP/1.1" 404 1007
+0:0:0:0:0:0:0:1%0 - - [27/Sep/2016:16:13:00 -0500] "GET /HelloWorldStruts2/ HTTP/1.1" 200 399
+0:0:0:0:0:0:0:1%0 - - [27/Sep/2016:16:13:04 -0500] "GET /HelloWorldStruts2/hello?name=charros HTTP/1.1" 404 1007
+0:0:0:0:0:0:0:1%0 - - [27/Sep/2016:16:17:19 -0500] "GET /HelloWorldStruts2/ HTTP/1.1" 200 399
+0:0:0:0:0:0:0:1%0 - - [27/Sep/2016:16:17:27 -0500] "GET /HelloWorldStruts2/hello?name=njv+ HTTP/1.1" 404 1007
+0:0:0:0:0:0:0:1%0 - - [27/Sep/2016:16:17:52 -0500] "GET /HelloWorldStruts2/hello?name=njv HTTP/1.1" 404 1007
+127.0.0.1 - - [27/Sep/2016:16:19:20 -0500] "GET / HTTP/1.1" 404 961
+0:0:0:0:0:0:0:1%0 - - [27/Sep/2016:16:19:21 -0500] "GET /HelloWorldStruts2/ HTTP/1.1" 200 399
+0:0:0:0:0:0:0:1%0 - - [27/Sep/2016:16:20:59 -0500] "GET /HelloWorldStruts2/hello?name= HTTP/1.1" 404 1007
+0:0:0:0:0:0:0:1%0 - - [27/Sep/2016:16:21:11 -0500] "GET /HelloWorldStruts2/hello?name=e HTTP/1.1" 404 1007
+0:0:0:0:0:0:0:1%0 - - [27/Sep/2016:16:21:48 -0500] "GET /HelloWorldStruts2/hello?name=struts2 HTTP/1.1" 404 1007
